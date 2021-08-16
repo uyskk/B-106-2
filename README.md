@@ -1,3 +1,3 @@
-# личный проект итернет магазин
+# верстка
 https://t.me/slavahavk
 https://t.me/@shookli
